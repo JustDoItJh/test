@@ -19,10 +19,11 @@
     font-size: 2rem;
     background-color: #febf00;
     transition: .4s;
-    
+    opacity: 0.3;
   }
   
   .box.active {
+    opacity: 1;
     width: 20rem;
     background: #f03d3d;
     color: #fff;
